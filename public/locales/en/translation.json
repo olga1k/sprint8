@@ -1,0 +1,12 @@
+{
+    "main": {
+        "header": "Expenses - Last week",
+        "balance": "Total balance",
+        "today": "Today's expenses",
+        "compare": "compared to yesterday"
+    },
+
+    "labels": {
+        
+    }
+}

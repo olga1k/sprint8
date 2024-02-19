@@ -1,0 +1,12 @@
+{
+    "main": {
+        "header": "Gastos - Ultima semana",
+        "balance": "Balance total",
+        "today": "Gastos hoy",
+        "compare": "respecto a ayer"
+    },
+
+    "labels": {
+        
+    }
+}

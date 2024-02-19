@@ -1,0 +1,12 @@
+{
+    "main": {
+        "header": "Despeses - Ultima setmana",
+        "balance": "Balanç total",
+        "today": "Despeses avui",
+        "compare": "respecte a ahir"
+    },
+
+    "labels": {
+        
+    }
+}
